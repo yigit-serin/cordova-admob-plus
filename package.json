@@ -5,7 +5,6 @@
   "main": "www/admob.js",
   "typings": "www/admob.d.ts",
   "scripts": {
-    "prepare": "rollup -c"
   },
   "devDependencies": {
     "@admob-plus/core": "^0.9.3",
@@ -55,6 +54,5 @@
     "extends": [
       "concise-esnext"
     ]
-  },
-  "gitHead": "e407f5df2100f21d732b65a95667b97870a11739"
+  }
 }
